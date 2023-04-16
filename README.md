@@ -16,13 +16,18 @@ According to the USGS, in Landsat 8-9, NDSI = (Band 3 – Band 6) / (Band 3 + Ba
 
 After getting each scene NDSI, the Semi Automated Classification plugin was used and train to obtain the snow polygon. The different polygons allow to calculate the estimate area. 
 
-Results
+##Results
 
 The different areas obtained by the semi automated classification show a reduction through the years, in which the snowed area is beginning to be divided in different sections.
+
 https://user-images.githubusercontent.com/119541571/232234640-ae179fcb-e61f-41fd-b925-6c45e1878188.mp4
+
 When calculating the areas, is possible to apreciate a recovery in the 2020-2022 period, despite of this, it continues the retreat tendency of the glacier area
+
 ![Table_cocuy](https://user-images.githubusercontent.com/119541571/232345451-9fab28c5-238e-4262-8010-53b07a27b26a.jpg)
 ![area_cocuy](https://user-images.githubusercontent.com/119541571/232345732-c906166b-3990-4f1b-a716-9e25151d94c9.jpg)
+
+##References
 
 IDEAM, 2021, SIERRA NEVADA EL COCUY O GÜICÁN
 USGS, (n.d), Normalized Difference Snow Index
