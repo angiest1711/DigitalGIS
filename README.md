@@ -36,7 +36,7 @@ https://user-images.githubusercontent.com/119541571/232234640-ae179fcb-e61f-41fd
 ![Table_cocuy](https://user-images.githubusercontent.com/119541571/232345451-9fab28c5-238e-4262-8010-53b07a27b26a.jpg)
 ![area_cocuy](https://user-images.githubusercontent.com/119541571/232345732-c906166b-3990-4f1b-a716-9e25151d94c9.jpg)
 
-When calculating the areas, is possible to apreciate a recovery in the 2020-2022 period, despite of this, it continues the retreat tendency of the glacier area, meaning that in the following years if the earth's temperature continues to increase, this environments in the tropical areas could desapear completly as it can be seen in the extint glaciers in the country.
+When calculating the areas, is possible to apreciate a recovery in the 2020-2022 period, despite of this, it continues the retreat tendency of the glacier area, meaning that in the following years if the earth's temperature continues to increase, this environments in the tropical areas could desapear completly as it can be seen in the extint glaciers in the country. Further monitoring is needed to adress the behavioural patterns of the glaciers and adding variables such as temperature and precipitation to obtain better results.
 
 ## References
 
