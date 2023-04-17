@@ -1,13 +1,24 @@
 # Glacier Monitoring of the Sierra Nevada del Cocuy, Colombia using Landsat Satellite Imagery 
 
-Colombia despite of being a tropical country has glaciers that can be found at the top of the mountains that are higher than 4800 meters above sea level. In the past the country had fourteen glaciers but due to the increasing temperatures only six remain, one of them is the Sierra Nevada del Cocuy (IDEAM, 2021).
+Colombia despite of being a tropical country has glaciers that can be found at the top of the mountains that are higher than 4800 meters above sea level. In the past the country had fourteen glaciers but due to climate change and the increasing temperatures only six remain, one of them is the Sierra Nevada del Cocuy (IDEAM, 2021).
 
 ## Study Area
-The Sierra Nevada del Cocuy is located in the eastern Andes Mountain chain between the Arauca, Boyacá and Casanare. It is the largest glacier in the country and is part of the Natural National Park El Cocuy. (Parques Nacionales, n.d)
+The Sierra Nevada del Cocuy is located in the eastern Andes Mountain chain between the Arauca, Boyacá and Casanare. It is the largest glacier in the country and is part of the Natural National Park El Cocuy. (Parques Nacionales, n.d) The temperature inside the park oscilates between -3°c to 20
 
 ## Methodology
 
-Landsat 8 and 9 Level – 2 scenes were used the study case mainly from the month of December (2022,2021,2020,2017,2016,2014), but due to cloud coverage, some scenes belong to a different time frame (2023,2018). The scenes were obtained through the Earth Explorer website.
+Landsat 8 Level – 2 scenes were used the study case mainly from the month of December (2022,2021,2020,2017,2016,2014), but due to cloud coverage, some scenes belong to a different time frame (2023,2018), for the year 2015 there was no data available. The scenes were obtained through the Earth Explorer website. 
+
+- LC08_L2SP_007056_20131123_20200912_02_T1
+- LC08_L2SP_007056_20141228_20200910_02_T1
+- LC08_L2SP_007056_20161217_20200905_02_T1
+- LC08_L2SP_007056_20171220_20200902_02_T1
+- LC08_L2SP_007056_20180310_20200901_02_T1
+- LC08_L2SP_007056_20190225_20200829_02_T1
+- LC08_L2SP_007056_20201212_20210314_02_T1
+- LC08_L2SP_007056_20221202_20221212_02_T1
+- LC08_L2SP_007056_20230204_20230209_02_T1
+
 The Normalized Difference Snow Index was used, making possible to differentiate snow from other variables such as vegetation or soil (USGS, n.d).
 
 (G – SWIR1) / (G + SWIR1)
