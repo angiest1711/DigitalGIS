@@ -3,7 +3,7 @@
 Colombia despite of being a tropical country has glaciers that can be found at the top of the mountains that are higher than 4800 meters above sea level. In the past the country had fourteen glaciers but due to climate change and the increasing temperatures only six remain, one of them is the Sierra Nevada del Cocuy (IDEAM, 2021).
 
 ## Study Area
-The Sierra Nevada del Cocuy is located in the eastern Andes Mountain chain between the Arauca, Boyacá and Casanare. It is the largest glacier in the country and is part of the Natural National Park El Cocuy. (Parques Nacionales, n.d) The temperature inside the park oscilates between -3°c to 20
+The Sierra Nevada del Cocuy is located in Colombia, in the eastern Andes Mountain chain between the Arauca, Boyacá and Casanare. It is the largest glacier in the country mainly placed between 4800 and 5300 m.a.s.l and is part of the Natural National Park El Cocuy. (Parques Nacionales, n.d) The temperature inside the park oscilates between -3°C to 20 °C.
 
 ## Methodology
 
@@ -27,20 +27,21 @@ According to the USGS, in Landsat 8-9, NDSI = (Band 3 – Band 6) / (Band 3 + Ba
 
 After getting each scene NDSI, the Semi Automated Classification plugin was used and train to obtain the snow polygon. The different polygons allow to calculate the estimate area. 
 
-## Results
+## Results and Conclusion
 
-The different areas obtained by the semi automated classification show a reduction through the years, in which the snowed area is beginning to be divided in different sections.
+The different areas obtained by the semi automated classification show a reduction through the years, in which the snowed area is beginning to be divided in different sections, specially in the southern areas of the glacier.
 
 https://user-images.githubusercontent.com/119541571/232234640-ae179fcb-e61f-41fd-b925-6c45e1878188.mp4
-
-When calculating the areas, is possible to apreciate a recovery in the 2020-2022 period, despite of this, it continues the retreat tendency of the glacier area
 
 ![Table_cocuy](https://user-images.githubusercontent.com/119541571/232345451-9fab28c5-238e-4262-8010-53b07a27b26a.jpg)
 ![area_cocuy](https://user-images.githubusercontent.com/119541571/232345732-c906166b-3990-4f1b-a716-9e25151d94c9.jpg)
 
+When calculating the areas, is possible to apreciate a recovery in the 2020-2022 period, despite of this, it continues the retreat tendency of the glacier area, meaning that in the following years if the earth's temperature continues to increase, this environments in the tropical areas could desapear completly as it can be seen in the extint glaciers in the country.
+
 ## References
 
-- IDEAM, 2021, SIERRA NEVADA EL COCUY O GÜICÁN.
+- IDEAM, (2021), SIERRA NEVADA EL COCUY O GÜICÁN.
+- Parques Nacionales, (n.d), Parque Nacional Natural El Cocuy.
 - USGS, (n.d), Normalized Difference Snow Index.
 
 
